@@ -11,4 +11,4 @@ SCAFFOLDING
 3 - creare variabile contatore i
 4 - aprire ciclo while con condizione i minore della lunghezza della lista;
 5 - creare ciclicamente li  per ogni elemento della lista e incrementare la variabile contatore
-6 -  
+6 -  aggiungere nel testo del li il contenuto dell'array 
